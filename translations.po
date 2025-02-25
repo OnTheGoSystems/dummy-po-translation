@@ -1,0 +1,31 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "Hello, World!"
+msgstr ""
+
+msgid "Goodbye, see you soon!"
+msgstr ""
+
+msgid "Error: The requested item was not found."
+msgstr ""
+
+msgid "You have successfully logged in."
+msgstr ""
+
+msgid "Login failed. Please check your credentials."
+msgstr ""
+
+msgid "Welcome, %s!"
+msgstr ""
+
+msgid "You have %d items in your cart."
+msgstr ""
+
+msgid "Your order has been placed successfully."
+msgstr ""
+
+msgid "A password reset link has been sent to your email."
+msgstr ""

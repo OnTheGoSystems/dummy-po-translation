@@ -1,0 +1,38 @@
+#
+msgid ""
+msgstr ""
+"Language: en\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Hello, World!"
+msgstr "[T] Hello, World! ___ ______"
+
+msgid "Goodbye, see you soon!"
+msgstr "[T] Goodbye, see you soon! _____ _____ ___"
+
+msgid "Error: The requested item was not found."
+msgstr ""
+"[T] Error: The requested item was not found. ____ ___ ___ _______ _____"
+
+msgid "You have successfully logged in."
+msgstr "[T] You have successfully logged in. ________ _____ ____ _"
+
+msgid "Login failed. Please check your credentials."
+msgstr ""
+"[T] Login failed. Please check your credentials. ___ ______ _____ ___ ___ "
+"____"
+
+msgid "Welcome, %s!"
+msgstr "[T] Welcome, %s! _____ ___"
+
+msgid "You have %d items in your cart."
+msgstr "[T] You have %d items in your cart. ______ ____ ___ _____"
+
+msgid "Your order has been placed successfully."
+msgstr ""
+"[T] Your order has been placed successfully. ____ ___ ___ ________ ____"
+
+msgid "A password reset link has been sent to your email."
+msgstr ""
+"[T] A password reset link has been sent to your email. ___ ________ ______ "
+"______ ____"
